@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/bin/Debug/CursorGIFProcess.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/bin/Debug/CursorGIFProcess.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/obj/Debug/CursorGIFProcess.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/obj/Debug/CursorGIFProcess.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/obj/Debug/CursorGIFProcess.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CursorGIFProcess/obj/Debug/CursorGIFProcess.pdb

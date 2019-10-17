@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/bin/Debug/HF001_.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/bin/Debug/HF001_.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/obj/Debug/HF001_.csprojAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/obj/Debug/HF001_.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/obj/Debug/HF001_.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/HF001_/obj/Debug/HF001_.pdb

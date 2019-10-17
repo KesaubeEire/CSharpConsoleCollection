@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/bin/Debug/CsharpTest002.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/bin/Debug/CsharpTest002.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/obj/Debug/CsharpTest002.csprojAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/obj/Debug/CsharpTest002.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/obj/Debug/CsharpTest002.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/CsharpTest002/obj/Debug/CsharpTest002.pdb

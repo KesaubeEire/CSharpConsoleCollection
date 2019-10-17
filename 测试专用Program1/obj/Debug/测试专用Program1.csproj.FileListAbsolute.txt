@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/bin/Debug/测试专用Program1.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/bin/Debug/测试专用Program1.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/obj/Debug/测试专用Program1.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/obj/Debug/测试专用Program1.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/obj/Debug/测试专用Program1.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/测试专用Program1/obj/Debug/测试专用Program1.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/bin/Debug/UnitySpecials.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/bin/Debug/UnitySpecials.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/obj/Debug/UnitySpecials.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/obj/Debug/UnitySpecials.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/obj/Debug/UnitySpecials.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/UnitySpecials/obj/Debug/UnitySpecials.pdb
